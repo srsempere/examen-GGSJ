@@ -1,0 +1,4 @@
+# La línea siguiente indica que ignore todos los archivos .jpg.
+*.jpg
+# La línea siguiente indica que ignore todos los archivos .svg.
+*.svg
